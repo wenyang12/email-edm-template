@@ -1,0 +1,17 @@
+{
+  "name": "email-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp htmlmin"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-htmlmin": "^3.0.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
